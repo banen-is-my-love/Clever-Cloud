@@ -66,6 +66,7 @@ python-dotenv
 pytz
 pydub
 programmingquotes
+pyquery
 qrcode
 regex
 requests
