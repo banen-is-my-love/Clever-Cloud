@@ -28,7 +28,6 @@ gtts
 glitch_this
 gsearch
 googletrans-py
-gunicorn
 hachoir
 heroku3
 html-telegraph-poster
@@ -60,7 +59,6 @@ PyGithub
 pygments
 pylast
 pymediainfo
-pyquery
 pyrogram
 pySmartDL
 python-barcode
@@ -91,3 +89,7 @@ vcsi
 wand
 wget
 wikipedia
+youtube-search-python
+youtube_dl
+youtube-search
+yt-dlp
