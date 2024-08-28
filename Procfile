@@ -1,2 +1,2 @@
 web: python app.py
-worker: bash start.sh
+worker: bash banen
