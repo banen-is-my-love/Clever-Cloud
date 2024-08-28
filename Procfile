@@ -1,1 +1,2 @@
-web: python app.py & bash start.sh
+web: python app.py
+worker: bash start.sh
