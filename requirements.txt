@@ -46,6 +46,7 @@ lyricsgenius
 markdown
 motor
 moviepy
+nekos.py
 opentele
 ocrspace
 Pillow
@@ -94,4 +95,3 @@ youtube-search-python
 youtube_dl
 youtube-search
 yt-dlp
-git+https://github.com/RepthonAr/uq.git
