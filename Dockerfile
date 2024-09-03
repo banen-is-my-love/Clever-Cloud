@@ -9,4 +9,4 @@ COPY . /app/
 WORKDIR /app/
 RUN pip3 install -U -r requirements.txt
 EXPOSE 8080
-CMD ["bash","banen"]
+CMD ["bash","start.sh"]
