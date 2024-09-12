@@ -1,3 +1,3 @@
-git clone https://github.com/banen-is-my-love/Repthon BANEN
+git clone https://github.com/banen-is-my-love/bq BANEN
 cd BANEN
-python3 -m repthon
+python3 yp.py
